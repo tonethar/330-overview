@@ -1,6 +1,6 @@
 # 330 Overview
 
-# I. Main repos
+## I. Main repos
 - https://github.com/tonethar/IGME-330-Master
 - https://github.com/tonethar/IGME-235-Shared
 
