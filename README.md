@@ -18,8 +18,14 @@
 ## III. Units
 
 ### A. Vanilla Web Apps
+- no `var` allowed - function scope - can be accessed before they are declared
+- `let`/`const` - block scope - cannot be accessed before they are declared
+- function v. arrow functions - can/cannot be accessed before they are declared
+- ES6 Modules - `import`/`export`
+- Template strings
+- Ajax
 
-### B. Interactive Media
+### B. Interactive Media / "Creative Coding"
 
 ### C. Tooling & Transpiling
 - [Command Line Tips](https://github.com/tonethar/IGME-330-Master/blob/master/notes/command-line-tips.md)
@@ -30,8 +36,32 @@
 
 ### D. Intermediate Apps (Services + cloud)
 
+### E. ML (did not cover at all in Fall 2023)
+
 ---
 
-## Subject Areas
+## IV. Subject Areas
 
-# 
+---
+
+## V. Other Topics
+- ***These are covered and returned to at various times***
+- Naming conventions for files, folders, HTML classes/ids, variables/functions/param namee, classes
+  - LINK #1
+  - LINK #2
+- Linting - just demoed in playground - did not do in `npm` - but easily could using vite templates
+  - LINK #1
+  - LINK #2
+- ES6 modules - `import`/`export`
+- Array and object destructuring
+  - LINK #1
+  - LINK #2
+- Config objects
+  - Destructured function params
+  - Destructured object constructor params and `Object.assign()`
+- Object prototype chain and `Object.create()`
+- Other `Object` class methods: `Object.seal()`, `Object.freeze()`
+- JS equality semantics `==` v. `===`
+- JS falsy values
+- 
+
