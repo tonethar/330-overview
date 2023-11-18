@@ -18,9 +18,8 @@
 ## III. Units
 
 ### A. Vanilla Web Apps
-- no `var` allowed - function scope - can be accessed before they are declared
-- `let`/`const` - block scope - cannot be accessed before they are declared
-- function v. arrow functions - can/cannot be accessed before they are declared
+- `var`/`let`/`const` - scope and when they can be accessed
+- function v. arrow functions - scope and when they can be accessed
 - ES6 Modules - `import`/`export`
 - Template strings
 - Ajax
@@ -63,5 +62,5 @@
 - Other `Object` class methods: `Object.seal()`, `Object.freeze()`
 - JS equality semantics `==` v. `===`
 - JS falsy values
-- 
+- Value types v. reference types
 
