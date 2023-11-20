@@ -10,7 +10,7 @@
 - "HW Centric"
   - https://github.com/tonethar/IGME-330-Fall-2023
   - https://github.com/tonethar/IGME-330-Spring-2023
-- "Project Center"
+- "Project Centric"
   - https://github.com/tonethar/IGME-330-Fall-2022
   
 --- 
