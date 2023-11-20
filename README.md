@@ -26,20 +26,24 @@
 
 ### B. Interactive Media / "Creative Coding"
 
-### C. Tooling & Transpiling
+### C. Audio Visualizer
+
+### D. Tooling & Transpiling
 - [Command Line Tips](https://github.com/tonethar/IGME-330-Master/blob/master/notes/command-line-tips.md)
 - [Intro to Node.js - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/intro-to-node-1.md)
 - [Intro to Node.js - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/intro-to-node-2.md)
 - [Bundling & Transpiling JS](https://github.com/tonethar/IGME-330-Fall-2023/blob/main/notes/bundling-transpiling.md)
 - [Intro to TypeScript](https://github.com/tonethar/IGME-330-Master/blob/master/notes/intro-typescript.md)
 
-### D. Intermediate Apps (Services + cloud)
+### E. Intermediate Apps (Services + cloud)
 
-### E. ML (did not cover at all in Fall 2023)
+
+### F. ML (covered Spring 2023, but not Fall 2023)
 
 ---
 
-## IV. Subject Areas
+## IV. Other Subject Areas
+### PHP
 
 ---
 
