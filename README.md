@@ -45,6 +45,7 @@
 ## IV. Other Subject Areas
 
 ### Web Components
+- nice example here: https://gomakethings.com/an-example-of-an-html-web-component/
 
 ### PHP
 
